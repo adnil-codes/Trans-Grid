@@ -1,0 +1,3 @@
+# Trans-Grid
+This project is just to sharpen my CSS skills using a Trasvery Media video.
+Special thanks to my Tutor @luchy_dans......
